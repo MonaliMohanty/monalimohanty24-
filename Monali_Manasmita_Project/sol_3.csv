@@ -1,0 +1,9 @@
+﻿profile_id,Full_name,email_id,phone,city,house_id,move_in_date,move_out_date,rent,Referrals_made,latest_employer,occupational_category
+9,Shivshankar das,sankar.shiva730@gmail.com,9.80183e+009,Pune,9,2015-10-15,NULL,7500,1,NULL,Student
+10,Aditi jain,aditi.jain@sproxil.com,9.87312e+009,Pune,10,2015-06-20,NULL,7500,1,huawei Technologies,Working
+5,Tanvi mann,tanvi.mann1907@gmail.com,9.17835e+009,Bangalore,3,2015-05-15,2015-12-27,9000,3,GE Healthcare,Working
+6,Harish sahai,harish294all@gmail.com,9.87655e+009,Bangalore,8,2015-12-25,NULL,10200,1,Aditya birla,Working
+2,Ashish Singh,ashish.singh@gmail.com,9.87689e+009,Bangalore,2,2015-06-05,NULL,11000,2,hindustan unilever,Working
+12,Umang parejiya,uparejiya@gmail.com,7.89654e+009,Pune,15,2015-02-24,NULL,11000,1,Centurylink India,Working
+13,Mitali gupta,mitali.gupta80@gmail.com,8.79675e+009,Pune,12,2015-02-25,NULL,12000,2,SAP Labs India,Working
+3,Bhaskar maheshwari,bhaskar.mah@gmail.com,9.80183e+009,Bangalore,4,2015-10-28,2016-11-28,12000,1,Technicolor,Working
